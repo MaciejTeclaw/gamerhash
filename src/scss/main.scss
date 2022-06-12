@@ -1,0 +1,11 @@
+.custom_container{
+    &--1210{
+        max-width: 1210px;
+    }
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
